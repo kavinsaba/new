@@ -30,4 +30,12 @@ System.out.println("Method5");
 public void mc06() {
 System.out.println("Method6");
 }
+@Test
+public void mc07() {
+System.out.println("Method7");
+}
+@Test
+public void mc08() {
+System.out.println("Method8");
+}
 }
